@@ -1,0 +1,154 @@
+!SESSION 2024-06-28 13:19:22.519 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=21.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-06-28 13:19:24.292
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-28 13:19:24.544
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-28 13:19:33.902
+!MESSAGE Logback config file: D:\Spring-Security\4.Role-Based-Authorization\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-06-28 13:19:35.307
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-06-28 13:19:35.307
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-06-28 13:19:38.751
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sufal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-06-28 13:23:55.030 -----------------------------------------------
+eclipse.buildId=4.21.1.202402070844
+java.version=21.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-06-28 13:23:57.402
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-28 13:23:57.643
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-28 13:24:04.552
+!MESSAGE Logback config file: D:\Spring-Security\4.Role-Based-Authorization\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-06-28 13:24:06.026
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-06-28 13:24:06.026
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-06-28 13:24:09.570
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sufal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:46.420
+!MESSAGE Classpath changed for project: 1.Spring-Security
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:47.368
+!MESSAGE Classpath changed for project: 1.Spring-Security
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:47.369
+!MESSAGE Classpath changed for project: 2.Spring-Security-Database
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:47.369
+!MESSAGE Classpath changed for project: 3.Register-Login-spring-Boot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:50.199
+!MESSAGE Classpath changed for project: 1.Spring-Security
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:50.208
+!MESSAGE Boot project ADDED: 1.Spring-Security
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:50.209
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:50.228
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-06-28 13:24:50.243
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\SOFTWARE\sts-4.21.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.2.v20240123-0840\jre\bin\javaw.exe
+-cp
+D:\SOFTWARE\sts-4.21.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;D:\SOFTWARE\sts-4.21.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\SOFTWARE\sts-4.21.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/Spring-Security/4.Role-Based-Authorization/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1719561290242
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:50.243
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-06-28 13:24:50.251
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 9212
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:50.264
+!MESSAGE Classpath changed for project: 1.Spring-Security
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:52.710
+!MESSAGE Classpath changed for project: 2.Spring-Security-Database
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:52.719
+!MESSAGE Boot project ADDED: 2.Spring-Security-Database
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:52.803
+!MESSAGE Classpath changed for project: 2.Spring-Security-Database
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:54.832
+!MESSAGE Classpath changed for project: 3.Register-Login-spring-Boot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-28 13:24:54.832
+!MESSAGE Boot project ADDED: 3.Register-Login-spring-Boot

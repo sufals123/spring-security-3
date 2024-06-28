@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	th:replace="base::layout(~{::section})">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<section th:fragment="content" class="text-center" th:object="${user}">
+		<h1>Profile page </h1>
+		<h6>Name : <span th:text="${user.name}"></span></h6>
+		<h6>Email : <span th:text="${user.email}"></span></h6>
+		<h6>Mobile No : <span th:text="${user.phone}"></span></h6>
+		
+		<button  type="submit" class="btn btn-wronge"><a class="log" href="/logout">Logout</a></button>
+	</section>
+</body>
+</html>
